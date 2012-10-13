@@ -4,9 +4,8 @@
 h2		{ color: red}
 h3		{ color: blue}
 h1		{ color: purple}
-
+.rebaseClass { line-height: 25px}
 
 .newClass {
 			color: #666;
 }
-.rebaseClass { line-height: 25px}
